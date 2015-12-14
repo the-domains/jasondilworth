@@ -1,7 +1,7 @@
 name: JasonDilworth
 favicon: null
-layout_spectrum: 0.3039272336754948
-typography_spectrum: 0.6197330120485276
+layout_spectrum: 0
+typography_spectrum: 0.1866
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#6fbe44'
+    - '#ffffff'
+    - '#000000'
+    - '#808080'
+    - '#00ff00'
   brandStrength: 0.23668926185928285
-  lightness: 0.009582296945154667
-  saturation: 0.8885512517299503
-  rhythmicContrast: 0.47324296389706433
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
