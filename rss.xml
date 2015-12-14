@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jason Dilworth]]></title>
+        <description><![CDATA[Jason Dilworth]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Dec 2015 16:57:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What's All This About Then?]]></title>
+            <description><![CDATA[<article><h1>What's All This About Then?</h1><p>I signed up to theGrid some time around a decade ago, I think. When they first came up with it, anyway, although clearly I was beaten by quite a lot of other Beta testers. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e087138e3d9a8fcaf19bfd4446c002e259f7fbe.jpg"></article>]]></description>
+            <link>undefinedwhats-all-this-about-then/index.html</link>
+            <guid isPermaLink="false">0791133f-396d-40ef-820c-f4ccdd093d99</guid>
+            <pubDate>Mon, 14 Dec 2015 16:57:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
